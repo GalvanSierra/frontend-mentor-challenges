@@ -4,17 +4,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Frontend Mentor - Recipe page solution](#frontend-mentor---recipe-page-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+  - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -26,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/GalvanSierra/recipe-page-frontend-mentor)
-- Live Site URL: [GitHub Page](https://galvansierra.github.io/recipe-page-frontend-mentor/)
+- Solution URL: [GitHub](https://github.com/GalvanSierra/frontend-mentor-challenges/tree/main/src/pages/recipe-page)
+- Live Site URL: [Vercel](https://frontend-mentor-challenges-six-woad.vercel.app/recipe-page)
 
 ## My process
 

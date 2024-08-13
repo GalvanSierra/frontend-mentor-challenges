@@ -4,12 +4,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -21,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/GalvanSierra/qr-code-component-frontend-mentor)
-- Live Site URL: [GitHub Page](https://galvansierra.github.io/qr-code-component-frontend-mentor/)
+- Solution URL: [GitHub](https://github.com/GalvanSierra/frontend-mentor-challenges/tree/main/src/pages/qr-code-component)
+- Live Site URL: [GitHub Page](https://frontend-mentor-challenges-six-woad.vercel.app/qr-code-component)
 
 ## My process
 
