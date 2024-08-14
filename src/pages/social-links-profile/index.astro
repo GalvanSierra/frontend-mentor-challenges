@@ -1,0 +1,36 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import "./style.css";
+import avatarImg from "./assets/images/avatar-jessica.jpeg";
+---
+
+<Layout title="Frontend Mentor | Social links profile">
+  <body>
+    <div class="container">
+      <div class="profile">
+        <img src={avatarImg.src} alt="avatar" class="profile__img" />
+
+        <h2 class="profile__name">Jessica Randall</h2>
+        <p class="profile__country">London, United Kingdom</p>
+        <p class="profile__description">
+          "Front-end developer and avid reader."
+        </p>
+
+        <ul class="profile__social-links">
+          <li class="social-link">GitHub</li>
+          <li class="social-link">Frontend Mentor</li>
+          <li class="social-link">LinkedIn</li>
+          <li class="social-link">Twitter</li>
+          <li class="social-link">Instagram</li>
+        </ul>
+      </div>
+
+      <div class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by <a href="https://github.com/GalvanSierra">GalvanSierra</a>.
+      </div>
+    </div>
+  </body>
+</Layout>
